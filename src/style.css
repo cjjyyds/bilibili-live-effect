@@ -1,0 +1,14 @@
+* {
+    overflow: hidden;
+}
+
+canvas {
+    position: fixed;
+    left: 0;
+    z-index: -1;
+}
+
+Button {
+    float: left;
+    top: 0;
+}
